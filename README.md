@@ -2,6 +2,6 @@
 
 ## Using the Keras Functional API
 
-## Neural Network by implementing it yourselF
+## Neural Network by implementing it yourself
 
-## Topic: Using the Keras Functional API
+## Perceptrons
